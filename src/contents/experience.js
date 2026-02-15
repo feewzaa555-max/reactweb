@@ -4,9 +4,9 @@ export const data = [
     {
         date: "2024-202",
         title: "Frontend Developer",
-        link: "https://github.com/suriyapi/react101",
+        link: "https://github.com/feewzaa555-max/reactweb.git",
         material: [
-            {type: faGithub, link: "https://github.com/suriyapi/react101"},
+            {type: faGithub, link: "https://github.com/feewzaa555-max/reactweb.git"},
             {type: faYoutube, link: "https://www.youtube.com/@thanawatkomsa8981"}
         ],
         descriptions: [
@@ -21,9 +21,9 @@ export const data = [
     {
         date: "2024-2029",
         title: "Frontend Developer",
-        link: "https://github.com/suriyapi/react101",
+        link: "https://github.com/feewzaa555-max/reactweb.git",
         material: [
-            {type: faGithub, link: "https://github.com/suriyapi/react101"},
+            {type: faGithub, link: "https://github.com/feewzaa555-max/reactweb.git"},
             {type: faYoutube, link: "https://www.youtube.com/@thanawatkomsa8981"}
         ],
         descriptions: [
